@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# VERSION CONTROL
 
-`CURSO`
+`ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`3º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Anthony Gabriel Santana Dos Santos
+* Bárbara De Sousa Martins
+* Diogo Victor Santos Silva
+* Érica Rodrigues Almeida Almarim
+* Matheus Oliveira Rosário
+* Nathan Teixeira Rizzatte
 
 ## Orientador
 
-* Nome completo do professor 1
+* Wesley Dias Maciel
 
 ## Instruções de utilização
 
