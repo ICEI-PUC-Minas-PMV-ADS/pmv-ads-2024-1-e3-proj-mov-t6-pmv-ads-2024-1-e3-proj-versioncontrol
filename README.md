@@ -1,12 +1,12 @@
 # VERSION CONTROL
 
-`ANALISE E DESENVOLVIMENTO DE SISTEMAS`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
 `Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
 `3º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto em desenvolvimento visa implementar uma gestão documental eficaz, garantindo o armazenamento adequado e revisão correta dos documentos, promovendo a precisão e consistência das informações.
 
 ## Integrantes
 
