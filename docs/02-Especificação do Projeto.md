@@ -89,9 +89,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|------|-----------------------------------------|----|
+|RNF-01| O projeto deve ter um tempo de resposta rápido ao carregar e salvar documentos, garantindo uma experiência de usuário ágil| ALTA | 
+|RNF-02| O projeto deve ser capaz de lidar com um grande volume de documentos e usuários simultâneos sem degradar o desempenho | ALTA |
+|RNF-03|O projeto deve garantir a segurança dos documentos e revisões, implementando criptografia e controle de acesso baseado em permissões | MÉDIA |
+|RNF-04| O projeto deve ser compatível com diferentes plataformas, como iOS e Android, para permitir acesso em dispositivos móveis | MÉDIA |
+|RNF-05| O projeto deve possuir uma interface intuitiva e de fácil utilização, garantindo uma curva de aprendizado mínima para os usuários  Baixa |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
