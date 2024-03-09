@@ -80,10 +80,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| A aplicação deve permitir que os usuários façam upload de documentos para armazenamento | ALTA | 
-|RF-02| O aplicação deve permitir que os usuários organizem os documentos em pastas e categorias  | MÉDIA |
-|RF-03| O aplicação deve permitir que os usuários visualizem e editem documentos armazenados. | ALTA |
-|RF-04| O aplicação deve fornecer um sistema de controle de versão para cada documento, permitindo que os usuários vejam e restauram versões anteriores. | MÉDIA |
-|RF-05| O aplicação deve permitir que os usuários adicionem comentários e anotações aos documentos para facilitar a revisão colaborativa. | BAIXA |
+|RF-02| O aplicativo deve permitir que os usuários organizem os documentos em pastas e categorias  | MÉDIA |
+|RF-03| O o aplicativo deve permitir que os usuários visualizem e editem documentos armazenados. | ALTA |
+|RF-04| O aplicativo deve fornecer um sistema de controle de versão para cada documento, permitindo que os usuários vejam e restauram versões anteriores. | MÉDIA |
+|RF-05| O aplicativo deve permitir que os usuários adicionem comentários e anotações aos documentos para facilitar a revisão colaborativa. | BAIXA |
+|RF-06|A aplicação deve ter um sistema de casdastro e login | Alta |
+
 
 
 ### Requisitos não Funcionais
