@@ -79,22 +79,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O aplicativo deve permitir que os usuários façam upload de documentos para armazenamento | ALTA | 
-|RF-02| O aplicativo deve permitir que os usuários organizem os documentos em pastas e categorias  | MÉDIA |
-|RF-03| O aplicativo deve permitir que os usuários visualizem e editem documentos armazenados. | ALTA |
-|RF-04| O projeto deve fornecer um sistema de controle de versão para cada documento, permitindo que os usuários vejam e restauram versões anteriores. | MÉDIA |
-|RF-05| O projeto deve permitir que os usuários adicionem comentários e anotações aos documentos para facilitar a revisão colaborativa. | Baixa |
+|RF-01| A aplicação deve permitir que os usuários façam upload de documentos para armazenamento | ALTA | 
+|RF-02| O aplicação deve permitir que os usuários organizem os documentos em pastas e categorias  | MÉDIA |
+|RF-03| O aplicação deve permitir que os usuários visualizem e editem documentos armazenados. | ALTA |
+|RF-04| O aplicação deve fornecer um sistema de controle de versão para cada documento, permitindo que os usuários vejam e restauram versões anteriores. | MÉDIA |
+|RF-05| O aplicação deve permitir que os usuários adicionem comentários e anotações aos documentos para facilitar a revisão colaborativa. | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |------|-----------------------------------------|----|
-|RNF-01| O projeto deve ter um tempo de resposta rápido ao carregar e salvar documentos, garantindo uma experiência de usuário ágil| ALTA | 
-|RNF-02| O projeto deve ser capaz de lidar com um grande volume de documentos e usuários simultâneos sem degradar o desempenho | ALTA |
-|RNF-03|O projeto deve garantir a segurança dos documentos e revisões, implementando criptografia e controle de acesso baseado em permissões | MÉDIA |
-|RNF-04| O projeto deve ser compatível com diferentes plataformas, como iOS e Android, para permitir acesso em dispositivos móveis | MÉDIA |
-|RNF-05| O projeto deve possuir uma interface intuitiva e de fácil utilização, garantindo uma curva de aprendizado mínima para os usuários  Baixa |
+|RNF-01| O aplicativo deve ter um tempo de resposta rápido ao carregar e salvar documentos, garantindo uma experiência de usuário ágil| ALTA | 
+|RNF-02| O aplicativo deve ser capaz de lidar com um grande volume de documentos e usuários simultâneos sem degradar o desempenho | ALTA |
+|RNF-03|O aplicativo deve garantir a segurança dos documentos e revisões, implementando criptografia e controle de acesso baseado em permissões | MÉDIA |
+|RNF-04| O aplicativo deve ser compatível com diferentes plataformas, como iOS e Android, para permitir acesso em dispositivos móveis | MÉDIA |
+|RNF-05| O aplicativo deve possuir uma interface intuitiva e de fácil utilização, garantindo uma curva de aprendizado mínima para os usuários | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
