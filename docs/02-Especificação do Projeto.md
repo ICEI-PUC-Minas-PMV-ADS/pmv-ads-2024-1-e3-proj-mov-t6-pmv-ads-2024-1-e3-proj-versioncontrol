@@ -110,8 +110,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01| Deverá haver uma reunião fixa todas as terças-feiras à partir das 20:00h com a equipe de desenvolvimento. |
+|RE-02| A entrega do projeto completo deverá ser feita no dia 26/06/2024.|
+|RE-03| O repositório das entregas deverá ser feito no GitHub Classroom.        |
+|RE-04| A aplicação deverá ser compatível com as ferramentas de acessibilidade dos sistemas operacionais Ios e Android.       |
+|RE-05| A aplicação deverá atender às normas da LGPD.       |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
