@@ -79,8 +79,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O aplicativo deve permitir que os usuários façam upload de documentos para armazenamento | ALTA | 
+|RF-002| O aplicativo deve permitir que os usuários organizem os documentos em pastas e categorias  | MÉDIA |
+|RF-003| O aplicativo deve permitir que os usuários visualizem e editem documentos armazenados. | ALTA |
+|RF-004| O projeto deve fornecer um sistema de controle de versão para cada documento, permitindo que os usuários vejam e restauram versões anteriores. | MÉDIA |
+|RF-005| O projeto deve permitir que os usuários adicionem comentários e anotações aos documentos para facilitar a revisão colaborativa.
+ | Baixa |
+
 
 ### Requisitos não Funcionais
 
