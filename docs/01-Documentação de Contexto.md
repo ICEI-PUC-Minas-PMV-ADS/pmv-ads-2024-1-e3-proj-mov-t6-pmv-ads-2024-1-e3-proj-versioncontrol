@@ -1,46 +1,39 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A gestão eficaz da documentação é um pilar fundamental para o sucesso de projetos em qualquer área. A falta de um local adequado para armazenar a documentação pode gerar uma série de problemas que comprometem não apenas o andamento das atividades, mas também a qualidade dos resultados finais. Em particular, a utilização de um documento na revisão correta desempenha um papel crucial, assegurando a precisão, consistência e conformidade com os requisitos estabelecidos.
+
+É importante compreender que a revisão correta dos documentos não apenas garante a precisão das informações, mas também facilita a tomada de decisões informadas e a identificação precoce de possíveis desvios ou problemas. Ao adotar medidas corretivas e preventivas, as organizações podem não só evitar retrabalho desnecessário, mas também melhorar sua capacidade de entregar projetos dentro do prazo, do orçamento e com alta qualidade, garantindo assim a satisfação do cliente e o sucesso contínuo de suas iniciativas.
+
+Além disso, a implementação de sistemas de gestão documental eficazes pode contribuir significativamente para a redução de erros e inconsistências, promovendo a padronização dos processos e a colaboração entre os membros da equipe. Isso cria um ambiente de trabalho mais organizado e eficiente, no qual a informação é facilmente acessível e compreensível para todos os envolvidos.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O problema que se busca resolver com este projeto é a utilização de documentos que estejam em revisão incorreta, obsoletos e não liberados para utilização.  
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo principal deste projeto é implementar um sistema de gestão documental eficaz que permita armazenar, revisar e controlar documentos de forma organizada e segura. Além disso, busca-se:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> - Melhorar a precisão e consistência das informações contidas nos documentos;
+> - Facilitar a tomada de decisões informadas através do acesso rápido e fácil à documentação relevante;
+> - Identificar precocemente desvios ou problemas nos projetos, permitindo a adoção de medidas corretivas e preventivas;
+> - Reduzir custos e evitar retrabalho desnecessário;
+> - Garantir a conformidade com requisitos legais e regulamentares;
+> - Promover a colaboração e comunicação eficaz entre os membros da equipe;
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A ausência de um sistema adequado para armazenar e revisar documentos pode levar a erros, retrabalho e falta de conformidade com requisitos estabelecidos, resultando em atrasos, custos adicionais e insatisfação do cliente sobre os diversos assuntos do seu cotidiano, com confiabilidade, agilidade e imparcialidade.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A importância de uma gestão eficaz da documentação é respaldada por diversos estudos e dados. Segundo uma pesquisa realizada pela Associação para Gestão de Informação e Imagem (AIIM), aproximadamente 82% das empresas relatam que estão enfrentando desafios significativos relacionados à gestão da informação e documentação. Além disso, um relatório da PwC revelou que cerca de 7,2% de todos os documentos de uma empresa são perdidos ou extraviados, o que representa um custo médio de US$122 para cada documento perdido.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A implementação de sistemas de gestão documental eficazes pode resultar em uma redução significativa desses problemas. De acordo com a AIIM, as empresas que adotam soluções de gestão documental relatam uma economia média de 30% nos custos de processamento de documentos. Além disso, estudos mostram que a implementação de práticas de gestão documental pode aumentar a produtividade dos funcionários em até 20%, proporcionando um retorno sobre o investimento substancial.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo deste projeto inclui pessoas físicas, empresas e organizações de diversos setores que enfrentam desafios relacionados à gestão documental, tais como empresas de tecnologia, consultorias, instituições financeiras, órgãos governamentais, entre outros. Também são incluídos profissionais de diversas áreas envolvidos na produção, revisão e utilização de documentos, como gestores de projeto, analistas, engenheiros, advogados, entre outros.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
