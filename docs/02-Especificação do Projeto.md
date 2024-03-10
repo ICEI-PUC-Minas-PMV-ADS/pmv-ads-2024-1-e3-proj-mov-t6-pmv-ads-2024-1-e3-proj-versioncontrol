@@ -137,6 +137,8 @@ O diagrama de casos de uso é o próximo passo após a elicitação de requisito
 
 Abaixo está apresentado o diagrama de casos de uso.
 
+![DiagramaDeCasoDeUsoVersionControl](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/121464977/c2e4d12d-b293-4c83-8096-8eeed8560f10)
+
 > **Links Úteis**:
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
 > - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
