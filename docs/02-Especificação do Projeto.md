@@ -4,11 +4,19 @@
 
 |![primeira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/ba6763cf-c924-488e-84d4-254030d7bdbd)|**Gabriela Rocha**|<p>**29 anos**</p><p>**Ocupação: Analista de Qualidade em uma empresa de pequeno porte.** </p><p></p>|
 | :- | :-: | :- |
-|Motivações: Deseja armazenar os documentos da Qualidade em um repositório oficial. |<p>Frustrações:</p><p>Não consegue que os trabalhadores da produção, utilizem as instruções de trabalho atualizadas.</p>|<p>Hobbies/História:</p><p>Gosta de pesquisar sobre tecnologias; busca sempre estar atualizada na área de Qualidade. Gosta de ler livros de terror.</p>|
+|<p>Motivações:<p> Deseja armazenar os documentos da Qualidade em um repositório oficial. |<p>Frustrações:</p><p>Não consegue que os trabalhadores da produção, utilizem as instruções de trabalho atualizadas.</p>|<p>Hobbies/História:</p><p>Gosta de pesquisar sobre tecnologias; busca sempre estar atualizada na área de Qualidade. Gosta de ler livros de terror.</p>|
 
-|<p>**Imagem** </p><p>**não consigo inserir** </p>|<p>José Jr</p><p></p>|<p>25 anos</p><p>Ocupação: é um empreendedor determinado e visionário. Aos 25 anos, ele é proprietário de uma pequena loja de artigos de decoração e presentes. Com uma paixão por números e organização, João tem o desejo de administrar melhor o estoque de produtos de sua loja e ter uma estimativa mais precisa sobre a relação entre produtos e vendas.</p><p></p><p>Aplicativos: Instagram, whatsapp, twitter e linkedin</p><p></p>|
-| :- | - | :- |
-|<p>Motivações: Desejo de administrar melhor seu estoque de produtos e ter uma estimativa de como está a relação de produtos e vendas.;</p><p></p><p></p>|<p>Frustrações:</p><p>Dificuldade de administrar o estoque de seus produtos; Não ter uma projeção de vendas e estoque de seu produto</p><p></p>|<p>Hobbies/História:</p><p>Gosta de pesquisar sobre empreendedorismo; Apaixonado por administrção de negócios.</p><p></p>|
+|![mulher 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/101e2ae1-9725-4365-97b9-a31e2f7849af)|Sabrina|<p>**42 anos**</p><p>**Ocupação: Gerente de projetos na FullTech** </p><p></p>|
+| :- | :-: | :- |
+|<p>Motivações:<p> Gostaria de ter uma ferramenta para armazenar todos os formulários de testes e seus resultados. |<p>Frustrações:</p><p>Dificuldade para consultar resultados de testes realizados.</p>|<p>Hobbies/História:</p><p>Iniciou a sua trajetória na FullTeck a 15 anos. Busca soluções Ágeis para o dia a dia de sua empresa. </p>|
+
+|![homem 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/500210da-1fa0-40a1-a9cd-a690f7818222)|José Jr|<p>**22 anos**</p><p>**Ocupação: Estudante de História**</p><p></p>|
+| :- | :-: | :- |
+|<p>Motivações:<p> Busca um repositório de fácil acesso para arquivar resumos de livros. |<p>Frustrações:</p><p>Tem dificuldade com aplicações com várias interfaces de funcionalidades.</p>|<p>Hobbies/História:</p><p>Passa o dia todo na faculdade estudando e realizando monitorias. Nós finais de semana, gosta de sair com os amigos.</p>|
+
+|![homem 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/7a346c44-8ff3-456b-90a9-b6eb17285d80)|Bruno|<p>**35 anos **</p><p>**Ocupação: Gerente de RH na UsinagemTop** </p><p></p>|
+| :- | :-: | :- |
+|<p>Motivações:<p> Deseja um sistema para arquivar a documentação dos funcionários. |<p>Frustrações:</p><p>Fica sobrecarregada ao armazenar a documentação em meio físico. </p>|<p>Hobbies/História:</p><p>Assumiu recentemente a função nessa empresa, com a missão de organizar toda a parte documental de RH.</p>|
 
 ## Histórias de Usuários
 
