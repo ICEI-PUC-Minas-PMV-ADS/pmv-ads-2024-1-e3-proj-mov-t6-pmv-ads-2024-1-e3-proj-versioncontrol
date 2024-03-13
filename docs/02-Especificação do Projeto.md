@@ -14,7 +14,7 @@
 | :- | :-: | :- |
 |<p>Motivações:<p> Busca um repositório de fácil acesso para arquivar resumos de livros. |<p>Frustrações:</p><p>Tem dificuldade com aplicações com várias interfaces de funcionalidades.</p>|<p>Hobbies/História:</p><p>Passa o dia todo na faculdade estudando e realizando monitorias. Nós finais de semana, gosta de sair com os amigos.</p>|
 
-|![homem 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/7a346c44-8ff3-456b-90a9-b6eb17285d80)|Bruno|<p>**35 anos **</p><p>**Ocupação: Gerente de RH na UsinagemTop** </p><p></p>|
+|![homem 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/7a346c44-8ff3-456b-90a9-b6eb17285d80)|Bruno|<p>35 anos</p><p>**Ocupação: Gerente de RH na UsinagemTop** </p><p></p>|
 | :- | :-: | :- |
 |<p>Motivações:<p> Deseja um sistema para arquivar a documentação dos funcionários. |<p>Frustrações:</p><p>Fica sobrecarregada ao armazenar a documentação em meio físico. </p>|<p>Hobbies/História:</p><p>Assumiu recentemente a função nessa empresa, com a missão de organizar toda a parte documental de RH.</p>|
 
