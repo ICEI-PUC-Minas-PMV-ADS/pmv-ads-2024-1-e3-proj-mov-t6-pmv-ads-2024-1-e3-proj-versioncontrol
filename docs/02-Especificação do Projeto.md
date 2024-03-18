@@ -49,7 +49,8 @@ A proposta visa implementar um sistema de gestão documental eficaz, alinhado co
 Oportunidades de Melhoria: Automatizar o processo de revisão para aumentar a eficiência e reduzir erros.
 
 
-![Processo 1](img/02-bpmn-proc1.png)
+<img width="613" alt="processo" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/103065594/a2d143e7-90a0-496a-9b6e-d79df3c0dfc5">
+
 
 ### Processo 2 – NOME DO PROCESSO
 
