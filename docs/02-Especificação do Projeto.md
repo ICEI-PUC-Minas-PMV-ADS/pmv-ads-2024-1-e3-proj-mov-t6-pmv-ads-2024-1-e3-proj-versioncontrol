@@ -57,7 +57,8 @@ Oportunidades de Melhoria: Automatizar o processo de revisão para aumentar a ef
 Oportunidades de Melhoria: Implementar um sistema de controle de acesso para garantir a segurança e conformidade.
 
 
-![Processo 2](img/02-bpmn-proc2.png)
+<img width="399" alt="Captura de tela 2024-03-18 153624" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/103065594/2245e517-5ddd-460b-b642-ddd1df766ef1">
+
 
 ## Indicadores de Desempenho
 
