@@ -36,32 +36,39 @@ registradas as seguintes histórias de usuários:
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, a gestão documental enfrenta desafios significativos, incluindo revisão incorreta, documentos obsoletos, organização em pastas ou categorias e falta de controle sobre sua utilização. Os processos são muitas vezes manuais, dispersos e sujeitos a erros humanos.
+
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+A proposta visa implementar um sistema de gestão documental eficaz, alinhado com os objetivos estratégicos do negócio, para melhorar a precisão, consistência e conformidade dos documentos, facilitando a tomada de decisões e reduzindo custos. O sistema irá abranger desde o armazenamento seguro até a revisão e controle de acesso aos documentos, promovendo a colaboração entre os membros da equipe.
+
 
 ### Processo 1 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Oportunidades de Melhoria: Automatizar o processo de revisão para aumentar a eficiência e reduzir erros.
+
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
 ### Processo 2 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Oportunidades de Melhoria: Implementar um sistema de controle de acesso para garantir a segurança e conformidade.
+
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
+| Indicador                                               | Objetivo                                                             | Descrição                                                                  | Cálculo                                    | Fontes de Dados                           | Perspectivas                             |
+|---------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------|-------------------------------------------|------------------------------------------|
+| Taxa de revisão de documentos concluídos dentro do prazo | Garantir a revisão oportuna dos documentos                          | Percentual de documentos revisados que foram revisados dentro do prazo     | (Documentos revisados dentro do prazo / Total de documentos revisados) * 100 | Sistema de Gestão Documental             | Melhorar a eficiência de revisão        |
+| Percentual de documentos revisados que passaram na verificação de conformidade | Assegurar a conformidade dos documentos revisados               | Percentual de documentos revisados que passaram na verificação de conformidade | (Documentos conformes / Total de documentos revisados) * 100            | Sistema de Gestão Documental             | Garantir a qualidade dos documentos     |
+| Tempo médio para concessão de acesso aos documentos     | Reduzir o tempo necessário para conceder acesso aos documentos        | Média do tempo necessário para conceder acesso a documentos               | Soma do tempo para conceder acesso a documentos / Número de concessões de acesso | Sistema de Registro de Acesso aos Documentos | Aumentar a agilidade no acesso          |
+| Número de solicitações de revisão adicional por documento | Reduzir o retrabalho e a necessidade de revisões adicionais           | Média do número de solicitações de revisão adicional por documento        | Total de solicitações de revisão adicional / Total de documentos revisados  | Sistema de Gestão Documental             | Minimizar retrabalho e revisões adicionais |
+| Taxa de conformidade com requisitos legais e regulamentares | Assegurar a conformidade com requisitos legais e regulamentares     | Percentual de documentos em conformidade com requisitos legais/regulamentares | (Documentos em conformidade / Total de documentos revisados) * 100      | Sistema de Gestão Documental             | Garantir conformidade com normas       |
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
 
