@@ -111,7 +111,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-04| A aplicação deverá ser compatível com as ferramentas de acessibilidade dos sistemas operacionais Ios e Android.       |
 |RE-05| A aplicação deverá atender às normas da LGPD.       |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+
 
 ## Diagrama de Casos de Uso
 
@@ -146,4 +146,4 @@ Para realizar o Gerenciamento do Projeto, optamos por utilizar a ferramenta grat
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+![Orçamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/issues/11#issue-2195599949)
