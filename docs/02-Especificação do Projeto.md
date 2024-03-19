@@ -146,4 +146,4 @@ Para realizar o Gerenciamento do Projeto, optamos por utilizar a ferramenta grat
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/issues/11#issue-2195599949)
+![Orçamento - Version Control](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/45676d87-31e3-465c-b48a-d92887a7749c)
