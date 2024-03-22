@@ -53,7 +53,7 @@ A equipe está organizada da seguinte maneira:
 - Equipe de Desenvolvimento: Diogo Victor Santos Silva, Érica Rodrigues Almeida Almarim, Bárbara De Sousa Martins, Matheus Oliveira Rosário;
 - Equipe de Design: Diogo Victor Santos Silva.
 
-  Vale ressaltar que estamos utilizando essa estrutura na Etapa 2. O Grupo entende que cada etapa, devemos modificar as funções de Scrum Master, Product Owner e Design, para que todos possam atuar em diferentes funções.
+Vale ressaltar que estamos utilizando essa estrutura na Etapa 2. O Grupo entende que cada etapa, devemos modificar as funções de Scrum Master, Product Owner e Design, para que todos possam atuar em diferentes funções.
 
 ### Processo
 
