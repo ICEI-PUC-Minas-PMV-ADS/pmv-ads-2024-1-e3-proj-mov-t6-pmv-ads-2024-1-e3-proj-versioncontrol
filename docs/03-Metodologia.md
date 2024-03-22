@@ -28,8 +28,7 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `Melhorias`: uma funcionalidade precisa ser melhorada
 
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+O grupo estará colaborando na Branch Dev e, após a conclusão dos testes de software e a realização da reunião de revisão, faremos o commit para a Branch Main. Para os Issues, estes serão discutidos durante a reunião semanal da equipe, seguida pela elaboração do plano de ação para resolver as pendências.
 
 > **Links Úteis**:
 > - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
