@@ -3,7 +3,8 @@
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
+Os artefatos do projeto estão apresentados na tabela que se segue. 
+
 |**Ambiente**|**Plataforma** |**Link de acesso**|
 | :- | :- | :- |
 |Repositório de código fonte|Git Hub|[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t9-time3-projremediosolidario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol)|
