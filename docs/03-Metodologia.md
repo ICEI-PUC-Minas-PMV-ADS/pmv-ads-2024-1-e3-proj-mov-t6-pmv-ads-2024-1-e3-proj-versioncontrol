@@ -51,14 +51,12 @@ O Grupo está realizando uma reunião semanal toda terça feira para gerenciar o
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código: React Native
-- Ferramentas de comunicação: WhatsApp e Microsoft Teams
-- Ferramentas de desenho de tela (_wireframing_) : Figma
+**Editor de código: React Native**
+React Native oferece desenvolvimento multiplataforma, utilizando uma única base de código para iOS e Android. Possui APIs, acelerando o desenvolvimento. Com uma comunidade ativa e ferramentas robustas, React Native proporciona flexibilidade, economia de custos e simplificações na atualização de aplicativos.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+**Ferramentas de comunicação: WhatsApp e Microsoft Teams**
+A utilização do WhatsApp para comunicações diárias, simplifica a interação e reduz contratempos decorrentes de conflitos de horários incompatíveis. Enquando o Microsoft Teams, facilita a comunicação entre equipes por meio de chamadas de vídeo e áudio, permitindo uma colaboração eficaz em tempo real.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+**Ferramentas de desenho de tela (_wireframing_) : Figma**
+O Figma proporciona a colaboração em Tempo Real, permitindo que múltiplos usuários trabalhem simultaneamente no mesmo projeto, facilitando a colaboração entre equipes. Com sua Interface intuitiva e fácil de aprender, reduz a curva de aprendizado e agiliza o processo de criação de wireframes.
+
