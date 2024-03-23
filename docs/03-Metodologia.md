@@ -3,8 +3,13 @@
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
+|**Ambiente**|**Plataforma** |**Link de acesso**|
+| :- | :- | :- |
+|Repositório de código fonte|Git Hub|[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t9-time3-projremediosolidario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol)|
+|Documentos do projeto|Git Hub|([https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t9-time3-projremediosolidario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol)|)
+|Projeto de Interface e  Wireframes|Figma|https://www.figma.com/file/yiu7qkkm9Wev7V9FXpcKen/Version-Control?type=design&node-id=0%3A1&mode=design&t=1WR3XIHYqFuu6tEF-1|
+|Gerenciamento do Projeto|Git Hub/Projects|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/928|
 
 ## Controle de Versão
 
