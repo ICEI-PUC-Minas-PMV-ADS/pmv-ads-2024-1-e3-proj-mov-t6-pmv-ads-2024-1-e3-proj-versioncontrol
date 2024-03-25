@@ -54,16 +54,16 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
-**As métricas de qualidade do software VersionControl será baseada na norma ISO/IEC 25010. Os atributos e subcaracterísticas em ordem de peso/prioridade são:
+*As métricas de qualidade do software VersionControl será baseada na norma ISO/IEC 25010. Os atributos e subcaracterísticas em ordem de peso/prioridade são:*
 
 Funcionalidade Integridade funcional para cobertura de todas as tarefas e objetivos propostos pelo software; Correção funcional ao prover os resultados corretos; Adequação funcional medindo o quão bem consegue realizar suas tarefas
 
-**Usabilidade
+*Usabilidade*
 
 A usabilidade é uma característica importante pois assim podemos realizar eficientemente os objetivos do produto. Adequação reconhecível; Capacidade de aprendizado ; Operabilidade; Compreensibilidade;
 
 Segurança e Compatibilidade Confidencialidade, integridade e disponibilidade do sistema para manter informações cadastradas de forma segura no sistema e garantir integridade delas como um todo. Além disso, a compatibilidade define a facilidade e segurança que o sistema possui em poder trocar informações com um sistema terceiro.
 
-**Manutenibilidade
+*Manutenibilidade*
 
 Conformidade com os requisitos impostos; Modificabilidade que define a facilidade de realizar modificações no produto; Testabilidade para garantir que as modificações e as funcionalidades existem persistem em pleno funcionamento;
