@@ -3,8 +3,8 @@
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+![Dados dos usuários_page-0001](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7c551c18-b848-4495-ae7f-459e5286d598)
 
-![Arquitetura da Solução](img/02-mob-arch.png)
 
 ## Diagrama de Classes
 
