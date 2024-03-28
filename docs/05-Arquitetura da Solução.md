@@ -44,14 +44,17 @@ GitHub - Plataforma de hospedagem de código fonte e controle de versão.
 GitHub Actions - Ferramenta de integração contínua do GitHub.
 
 **API**
+
 JavaScript 
 Typescript - Superset do Javascript que adiciona tipagem estática e outros recursos.
 Next.js 13 - Framework para React.js que conta com um backend embutido, podendo ser utilizado também como uma API.
 
 **Web**
+
 React.js - Biblioteca para criação de interfaces de usuário.
 
 **App**
+
 React Native - Biblioteca para criação de interfaces de usuário.
 
 ## Hospedagem
