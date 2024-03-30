@@ -57,8 +57,11 @@ O Grupo está realizando uma reunião semanal toda terça feira para gerenciar o
 
 As ferramentas empregadas no projeto são:
 
-**Editor de código: React Native**
-React Native oferece desenvolvimento multiplataforma, utilizando uma única base de código para iOS e Android. Possui APIs, acelerando o desenvolvimento. Com uma comunidade ativa e ferramentas robustas, React Native proporciona flexibilidade, economia de custos e simplificações na atualização de aplicativos.
+**Editor de código:** 
+
+React Native: Oferece desenvolvimento multiplataforma, utilizando uma única base de código para iOS e Android. Possui APIs, acelerando o desenvolvimento. Com uma comunidade ativa e ferramentas robustas, React Native proporciona flexibilidade, economia de custos e simplificações na atualização de aplicativos.
+
+VSCode: As vantagens de se trabalhar com o VsCode são a sua ampla gama de extensões, integração com Git, depuração integrada e sua leveza e rapidez de carregamento.
 
 **Ferramentas de comunicação: WhatsApp e Microsoft Teams**
 A utilização do WhatsApp para comunicações diárias, simplifica a interação e reduz contratempos decorrentes de conflitos de horários incompatíveis. Enquando o Microsoft Teams, facilita a comunicação entre equipes por meio de chamadas de vídeo e áudio, permitindo uma colaboração eficaz em tempo real.
