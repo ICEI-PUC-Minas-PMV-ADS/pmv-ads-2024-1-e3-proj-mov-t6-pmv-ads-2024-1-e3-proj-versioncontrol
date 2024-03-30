@@ -63,6 +63,8 @@ React Native: Oferece desenvolvimento multiplataforma, utilizando uma única bas
 
 VSCode: As vantagens de se trabalhar com o VsCode são a sua ampla gama de extensões, integração com Git, depuração integrada e sua leveza e rapidez de carregamento.
 
+https://expo.dev/: Possui a facilidade de desenvolvimento e distribuição de aplicativos móveis multiplataforma, aproveitando recursos como hot reload, acesso a APIs nativas e integração simplificada com serviços em nuvem.
+
 **Ferramentas de comunicação: WhatsApp e Microsoft Teams**
 A utilização do WhatsApp para comunicações diárias, simplifica a interação e reduz contratempos decorrentes de conflitos de horários incompatíveis. Enquando o Microsoft Teams, facilita a comunicação entre equipes por meio de chamadas de vídeo e áudio, permitindo uma colaboração eficaz em tempo real.
 
