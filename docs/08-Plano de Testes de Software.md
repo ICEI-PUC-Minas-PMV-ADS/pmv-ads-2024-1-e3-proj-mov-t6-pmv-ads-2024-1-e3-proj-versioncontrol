@@ -1,19 +1,47 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+### 1. Teste de Navegação
+- Objetivo: Avaliar a facilidade de navegação dentro do sistema.
+- Atividades:
+  - Navegar pelas diferentes seções do sistema.
+  - Acessar documentos em pastas ou categorias específicas.
+- Métricas:
+  - Tempo para encontrar um documento específico.
+  - Facilidade de encontrar e usar os recursos de navegação.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+### 2. Teste de Upload de Documentos
+- Objetivo: Avaliar o processo de upload de documentos no sistema.
+- Atividades:
+  - Realizar o upload de diferentes tipos de documentos.
+  - Verificar a integridade e organização dos documentos após o upload.
+- Métricas:
+  - Tempo necessário para fazer o upload de um documento.
+  - Facilidade de identificação dos documentos após o upload.
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+### 3. Teste de Revisão de Documentos
+- Objetivo: Avaliar a eficácia do processo de revisão de documentos.
+- Atividades:
+  - Atribuir revisores a documentos específicos.
+  - Realizar revisões e aprovações de documentos.
+- Métricas:
+  - Tempo médio para revisar e aprovar um documento.
+  - Taxa de sucesso na identificação de documentos revisados.
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+### 4. Teste de Controle de Acesso
+- Objetivo: Avaliar a segurança e facilidade de controle de acesso aos documentos.
+- Atividades:
+  - Conceder e revogar acesso a documentos para diferentes usuários.
+  - Verificar as permissões de acesso para usuários específicos.
+- Métricas:
+  - Tempo médio para conceder acesso a um documento.
+  - Facilidade de configuração e gerenciamento de permissões de acesso.
+
+### 5. Teste de Organização de Pastas ou Categorias
+- Objetivo: Avaliar a eficiência da organização de documentos em pastas ou categorias.
+- Atividades:
+  - Criar, renomear e excluir pastas ou categorias.
+  - Mover documentos entre pastas ou categorias.
+- Métricas:
+  - Facilidade de encontrar documentos dentro de uma estrutura organizada.
+  - Eficiência na manipulação de pastas ou categorias.
+
