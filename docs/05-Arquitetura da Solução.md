@@ -5,6 +5,19 @@
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 ![Dados dos usuários_page-0001](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7c551c18-b848-4495-ae7f-459e5286d598)
 
+## Processos e suas respectivas atividades
+
+**Processo:** Download e Instalação do Aplicativo.
+
+**Atividades:** Acessar a PlayStore ou AppleStore para Ios, Iniciar Download, Abrir Aplicativo, Fazer Cadastro, Utilizar Aplicativo.
+
+**Processo:** Suporte ao usuário.
+
+**Atividades:** Abrir chamado, resolver problema, explicar solução ao cliente, finalizar chamado.
+
+## BPMN
+
+![BPMN-CONTROL-VERSION](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/fe390232-3b96-4728-a723-81be21390dee)
 
 ## Diagrama de Classes
 
