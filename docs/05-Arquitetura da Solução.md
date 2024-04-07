@@ -36,7 +36,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-![Diagrama entidade relacionamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/782d6085-9d3c-45db-b74e-3a5e2ce506ee)
+![Diagrama entidade relacionamento (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/4ecdc0e7-ec41-438d-9c41-3f6c96e91c6a)
+
 
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
