@@ -20,7 +20,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ![BPMN-CONTROL-VERSION](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/fe390232-3b96-4728-a723-81be21390dee)
 
 ## Indicadores de Desempenho e Metas para o Processo de Negócio
-
+![indicador-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7a8dad97-b14c-48d3-8acf-60718740c935)
 
 ## Diagrama de Classes
 
