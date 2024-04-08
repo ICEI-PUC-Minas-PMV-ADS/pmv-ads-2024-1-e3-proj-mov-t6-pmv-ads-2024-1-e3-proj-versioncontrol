@@ -22,6 +22,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Indicadores de Desempenho e Metas para o Processo de Negócio
 ![indicador-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7a8dad97-b14c-48d3-8acf-60718740c935)
 ![indicador-1-análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/a5b6d26a-a3e7-41bc-9fe5-740929c73b76)
+![indicador-1-gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/bef8d578-a1b5-4355-be0b-c543bb71ed2c)
+
 
 ## Diagrama de Classes
 
