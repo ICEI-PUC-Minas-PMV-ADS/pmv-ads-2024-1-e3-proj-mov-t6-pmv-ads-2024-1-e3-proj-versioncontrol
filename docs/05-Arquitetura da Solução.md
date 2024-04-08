@@ -23,6 +23,9 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ![indicador-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7a8dad97-b14c-48d3-8acf-60718740c935)
 ![indicador-1-análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/a5b6d26a-a3e7-41bc-9fe5-740929c73b76)
 ![indicador-1-gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/0f190c50-21c5-4841-a89c-48dbff093792)
+![indicador - 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/8bacf85f-2073-4e0f-b83c-c989d25a6f24)
+![indicador - 2 - análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/52e5e43f-232a-4c4c-ae71-4476b82c8b3a)
+![indicador - 2 - gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/d56b7e7a-7d8c-461b-9844-ae336efec17e)
 
 
 
