@@ -20,12 +20,20 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ![BPMN-CONTROL-VERSION](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/fe390232-3b96-4728-a723-81be21390dee)
 
 ## Indicadores de Desempenho e Metas para o Processo de Negócio
+#### Indicador 1 
 ![indicador-1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/7a8dad97-b14c-48d3-8acf-60718740c935)
 ![indicador-1-análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/a5b6d26a-a3e7-41bc-9fe5-740929c73b76)
 ![indicador-1-gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/0f190c50-21c5-4841-a89c-48dbff093792)
+#### Indicador 2
 ![indicador - 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/8bacf85f-2073-4e0f-b83c-c989d25a6f24)
 ![indicador - 2 - análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/52e5e43f-232a-4c4c-ae71-4476b82c8b3a)
 ![indicador - 2 - gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/d56b7e7a-7d8c-461b-9844-ae336efec17e)
+#### Indicador 3
+![indicador - 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/47a8cba5-1c4f-4580-adfb-607256e2880f)
+![indicador - 3 - análise](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/f5820351-4488-4cc6-8cb6-25b203150763)
+![indicador - 3 - análise 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/8d963ead-028a-4941-9097-a791468bc138)
+![indicador - 3 - gráfico](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/71662852/1ec32bd1-1926-4d8b-bca5-d05dc319e8fd)
+
 
 
 
