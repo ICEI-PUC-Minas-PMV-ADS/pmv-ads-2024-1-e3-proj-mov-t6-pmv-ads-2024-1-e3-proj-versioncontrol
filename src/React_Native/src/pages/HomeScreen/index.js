@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, TouchableOpacity, Image } from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
 
-const HomeScreen = ({ navigation }) => {
+ export const HomeScreen = ({ navigation }) => {
   return (
     <View style={{ flex: 1, backgroundColor: '#FFFF00', alignItems: 'center', justifyContent: 'center' }}>
       <TouchableOpacity
