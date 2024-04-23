@@ -5,7 +5,7 @@ import * as Animatable from 'react-native-animatable'
 
 import {useNavigation } from '@react-navigation/native'
 
-export default function Welcome() {
+export default function WelcomeScreen() {
     const navigation = useNavigation();
 
     return (
