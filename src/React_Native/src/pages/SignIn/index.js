@@ -27,8 +27,14 @@ export default function SignIn () {
                 style={styles.input}
                 />
 
+               
+
                 <TouchableOpacity style={styles.button}>
                     <Text style={styles.buttonText}>Acessar</Text>
+                </TouchableOpacity>
+
+                <TouchableOpacity style={styles.buttonback} onPress={() => navigation.navigate('Welcome')}>
+                <Text style={styles.buttonTextVoltar}>Voltar</Text>
                 </TouchableOpacity>
 
                 <TouchableOpacity style={styles.buttonRegister} onPress={() => navigation.navigate('SignUp')}>
@@ -84,6 +90,22 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center'
     },
+    buttonback: {
+        backgroundColor: 'white',
+        width: '35%',
+        borderRadius: 20,
+        paddingVertical: 8,
+        martinTop: 14,
+        justifyContent: 'center',
+        alignItems: 'center',
+        alignSelf: 'center',
+    },
+    buttonTextVoltar: {
+        color: '#6e6e6e',
+        fontSize: 18,
+        fontWeight: 'bold'
+    },
+    
     buttonText: {
         color: '#fff',
         fontSize: 18,
@@ -94,6 +116,7 @@ const styles = StyleSheet.create({
         alignSelf: 'center'
     },
     registerText: {
-        color: '#a1a1a1'
+        color: '#ffa500',
+        fontSize: 16,
     }
 })

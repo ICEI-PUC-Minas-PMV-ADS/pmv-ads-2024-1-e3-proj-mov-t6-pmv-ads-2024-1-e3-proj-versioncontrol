@@ -1,5 +1,5 @@
 import React from "react";
-import {View,Text, StyleSheet, Image, TouchableOpacity, ImageBackgroundComponent} from "react-native";
+import {View,Text, StyleSheet, Image, TouchableOpacity, ImageBackgroundComponent,} from "react-native";
 
 import * as Animatable from 'react-native-animatable'
 
@@ -10,7 +10,6 @@ export default function Welcome() {
 
     return (
         <View style={styles.container}>
-          
          <View style={styles.containerlogos}>
             <Animatable.Image
             animation="flipInY"
@@ -59,7 +58,8 @@ const styles = StyleSheet.create({
         marginBottom: 12,
     },
     text: {
-        color: '#a1a1a1'
+        color: '#6e6e6e',
+        fontSize: 16,
     },
     button: {
         position: 'absolute',
