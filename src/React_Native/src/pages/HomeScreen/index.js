@@ -6,7 +6,8 @@ import { DrawerActions } from '@react-navigation/native';
   return (
     <View style={{ flex: 1, backgroundColor: '#FFFF00', alignItems: 'center', justifyContent: 'center' }}>
       <TouchableOpacity
-        onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
+        //onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
+        onPress={() => navigation.navigate('DrawerContent')}
         style={{ position: 'absolute', top: 20, left: 10 }}
       >
        
@@ -14,7 +15,7 @@ import { DrawerActions } from '@react-navigation/native';
       </TouchableOpacity>
 
       <TouchableOpacity
-        onPress={() => navigation.navigate('WelcomeScreen')}
+        onPress={() => navigation.navigate('Welcome')}
         style={{ position: 'absolute', top: 20, right: 10 }}
       >
         {/* Logo */}

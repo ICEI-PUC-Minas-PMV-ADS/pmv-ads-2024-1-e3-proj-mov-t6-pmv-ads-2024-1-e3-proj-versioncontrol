@@ -2,7 +2,8 @@ import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons'; 
 
-const DrawerContent = ({ navigation }) => {
+
+export const DrawerContent = ({ navigation }) => {
   const navigateToScreen = (screenName) => {
     navigation.navigate(screenName);
     navigation.closeDrawer(); 
@@ -12,28 +13,28 @@ const DrawerContent = ({ navigation }) => {
     <View style={styles.container}>
       <TouchableOpacity
         style={styles.drawerItem}
-        onPress={() => navigateToScreen('Favoritos')}
+        onPress={() => navigateToScreen('FavoritosScreen')}
       >
         <MaterialIcons name="favorite" size={24} color="black" />
         <Text style={styles.drawerItemText}>Favoritos</Text>
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.drawerItem}
-        onPress={() => navigateToScreen('Cadernos')}
+        onPress={() => navigateToScreen('CadernoScreen')}
       >
         <MaterialIcons name="book" size={24} color="black" />
         <Text style={styles.drawerItemText}>Cadernos</Text>
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.drawerItem}
-        onPress={() => navigateToScreen('Compartilhar')}
+        onPress={() => navigateToScreen('CompartilharScreen')}
       >
         <MaterialIcons name="share" size={24} color="black" />
         <Text style={styles.drawerItemText}>Compartilhar</Text>
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.drawerItem}
-        onPress={() => navigateToScreen('Lixeira')}
+        onPress={() => navigateToScreen('LixeiraScreen')}
       >
         <MaterialIcons name="delete" size={24} color="black" />
         <Text style={styles.drawerItemText}>Lixeira</Text>

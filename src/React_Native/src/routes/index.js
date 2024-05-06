@@ -1,18 +1,19 @@
-import {createNativeStackNavigator} from "@react-navigation/native-stack"
+import {createNativeStackNavigator} from "@react-navigation/native-stack";
 
-import SignIn from "../pages/SignIn"
-import SignUp from "../pages/SignUp"
-import DrawerContent from "../pages/DrawerContent"
-import HomeScreen from "../pages/HomeScreen"
-import WelcomeScreen from "../pages/WelcomeScreen"
-import DrawerContent from "../pages/CadernosScreen"
-import HomeScreen from "../pages/CompartilharScreen"
-import WelcomeScreen from "../pages/ConfigScreen"
-import HomeScreen from "../pages/FavoritosScreen"
-import WelcomeScreen from "../pages/LixeiraScreen"
-import CadernoScreen from "../pages/CadernosScreen"
-import ConfigScreen from "../pages/ConfigScreen"
-import FavoritosScreen from "../pages/FavoritosScreen"
+
+import Welcome from "../../src/pages/Welcome"
+import SignIn from "../../src/pages/SignIn"
+import SignUp from "../../src/pages/SignUp"
+import DrawerContent from "../../src/pages/DrawerContent"
+import HomeScreen from "../../src/pages/HomeScreen"
+
+
+import WelcomeScreen from "../../src/pages/WelcomeScreen"
+import LixeiraScreen from "../../src/pages/LixeiraScreen"
+import CadernoScreen from "../../src/pages/CadernosScreen"
+import CompartilharScreen from "../../src/pages/CompartilharScreen"
+import ConfigScreen from "../../src/pages/ConfigScreen"
+import FavoritosScreen from "../../src/pages/FavoritosScreen"
 
 const Stack = createNativeStackNavigator();
 
@@ -20,8 +21,8 @@ export default function Routes(){
     return(
         <Stack.Navigator>
             <Stack.Screen
-              name="WelcomeScreen"
-              component={WelcomeScreen}
+              name="Welcome"
+              component={Welcome}
               options={{headerShown: false}}
             />
              <Stack.Screen
@@ -43,14 +44,23 @@ export default function Routes(){
               name="HomeScreen"
               component={HomeScreen}
               options={{headerShown: false}}
+
             />
+
+            <Stack.Screen
+              name="WelcomeScreen"
+              component={WelcomeScreen}
+              options={{headerShown: false}}
+            />
+
             <Stack.Screen
               name="LixeiraScreen"
               component={LixeiraScreen}
               options={{headerShown: false}}
             />
+
              <Stack.Screen
-              name="CadernoScreen"
+              name="CadernosScreen"
               component={CadernoScreen}
               options={{headerShown: false}}
             />
@@ -69,6 +79,7 @@ export default function Routes(){
               component={FavoritosScreen}
               options={{headerShown: false}}
             />
+            
         </Stack.Navigator>
-    )
+    );
 }
