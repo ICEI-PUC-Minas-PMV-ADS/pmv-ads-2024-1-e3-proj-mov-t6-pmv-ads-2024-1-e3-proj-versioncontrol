@@ -1,17 +1,18 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Image } from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
+import { AntDesign } from '@expo/vector-icons';
 
  export const HomeScreen = ({ navigation }) => {
   return (
-    <View style={{ flex: 1, backgroundColor: '#FFFF00', alignItems: 'center', justifyContent: 'center' }}>
+    <View style={{ flex: 1, backgroundColor: 'lightgray', alignItems: 'center', justifyContent: 'center' }}>
       <TouchableOpacity
-        //onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
+       // onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
         onPress={() => navigation.navigate('DrawerContent')}
         style={{ position: 'absolute', top: 20, left: 10 }}
       >
        
-        <Text>☰</Text>
+       <AntDesign name="menu-fold" size={24} color="black" />
       </TouchableOpacity>
 
       <TouchableOpacity

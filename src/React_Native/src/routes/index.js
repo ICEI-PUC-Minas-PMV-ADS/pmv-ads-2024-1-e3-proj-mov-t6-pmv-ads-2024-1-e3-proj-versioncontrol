@@ -1,4 +1,5 @@
 import {createNativeStackNavigator} from "@react-navigation/native-stack";
+import {createDrawerNavigator} from '@react-navigation/drawer';
 
 
 import Welcome from "../../src/pages/Welcome"
@@ -81,5 +82,7 @@ export default function Routes(){
             />
             
         </Stack.Navigator>
+
+      
     );
 }
