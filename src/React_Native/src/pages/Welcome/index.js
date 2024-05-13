@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         marginBottom: 12,
     },
     text: {
-        color: '#a1a1a1'
+        color: '#6E6E6E'
     },
     button: {
         position: 'absolute',

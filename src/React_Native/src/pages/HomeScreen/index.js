@@ -1,10 +1,11 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, Image } from 'react-native';
+import { View, Text, TouchableOpacity, Image, StyleSheet} from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
 
  export const HomeScreen = ({ navigation }) => {
   return (
-    <View style={{ flex: 1, backgroundColor: '#FFFF00', alignItems: 'center', justifyContent: 'center' }}>
+    <View style={{ flex: 1,
+     backgroundColor: '#ffa500', alignItems: 'center', justifyContent: 'center' }}>
       <TouchableOpacity
         onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
         style={{ position: 'absolute', top: 20, left: 10 }}
@@ -47,5 +48,6 @@ import { DrawerActions } from '@react-navigation/native';
     </View>
   );
 };
+
 
 export default HomeScreen;
