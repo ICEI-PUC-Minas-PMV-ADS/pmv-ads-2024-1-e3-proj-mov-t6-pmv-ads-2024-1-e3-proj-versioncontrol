@@ -11,10 +11,11 @@ import HomeScreen from "../../src/pages/HomeScreen"
 
 import WelcomeScreen from "../../src/pages/WelcomeScreen"
 import LixeiraScreen from "../../src/pages/LixeiraScreen"
-import CadernoScreen from "../../src/pages/CadernosScreen"
 import CompartilharScreen from "../../src/pages/CompartilharScreen"
 import ConfigScreen from "../../src/pages/ConfigScreen"
 import FavoritosScreen from "../../src/pages/FavoritosScreen"
+import MenuHome from "../pages/MenuHome/MenuHome"
+import LibraryScreen from "../pages/LibraryScreen/index"
 
 const Stack = createNativeStackNavigator();
 
@@ -61,8 +62,8 @@ export default function Routes(){
             />
 
              <Stack.Screen
-              name="CadernosScreen"
-              component={CadernoScreen}
+              name="LibraryScreen"
+              component={LibraryScreen}
               options={{headerShown: false}}
             />
             <Stack.Screen
@@ -80,6 +81,13 @@ export default function Routes(){
               component={FavoritosScreen}
               options={{headerShown: false}}
             />
+            
+            <Stack.Screen
+              name="MenuHome"
+              component={MenuHome}
+              options={{headerShown: false}}
+            />
+           
             
         </Stack.Navigator>
 

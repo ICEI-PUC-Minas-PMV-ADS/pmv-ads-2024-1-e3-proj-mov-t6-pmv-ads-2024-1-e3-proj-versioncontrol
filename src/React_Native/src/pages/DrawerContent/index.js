@@ -68,6 +68,8 @@ export const DrawerContent = ({ navigation }) => {
       <Text style={styles.drawerItemText}>Voltar </Text>
     </TouchableOpacity>
 
+   
+
   </View>
 
   );

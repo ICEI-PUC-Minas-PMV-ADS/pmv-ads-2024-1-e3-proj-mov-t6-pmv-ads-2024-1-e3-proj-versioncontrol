@@ -5,14 +5,18 @@ import { NavigationContainer } from '@react-navigation/native'
 import Routes from '../../src/React_Native/src/routes'
 
 
+
 export default function App() {
   return (
     <NavigationContainer>
       <StatusBar backgroundColor={"#ffa500"} barStyle="light-content"/>
       <Routes/>
+      
      
   
 </NavigationContainer>
+
+
 
   )
 }
