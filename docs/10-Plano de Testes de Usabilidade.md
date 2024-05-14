@@ -4,7 +4,7 @@
 O objetivo deste plano de testes é avaliar a usabilidade do sistema de gestão de documentos Control Version, garantindo uma experiência intuitiva e eficiente para os usuários.
 
 ## Escopo
-Os testes serão realizados na interface do usuário do Version Control, incluindo funcionalidades de upload, revisão, controle de acesso e organização de documentos em pastas ou categorias.
+Os testes serão realizados na interface do usuário do Control Version, incluindo funcionalidades de upload, revisão, controle de acesso e organização de documentos em pastas ou categorias.
 
 ## Metodologia
 Os testes serão conduzidos por uma equipe de usuários representativos, incluindo membros da equipe de desenvolvimento, gerentes de projeto e usuários finais. Os testes serão realizados em um ambiente de teste simulando cenários de uso real do sistema.
