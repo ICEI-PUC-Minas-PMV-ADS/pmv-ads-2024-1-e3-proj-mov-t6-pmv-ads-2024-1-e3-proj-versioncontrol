@@ -1,7 +1,7 @@
 # Plano de Testes de Usabilidade 
 
 ## Objetivo
-O objetivo deste plano de testes é avaliar a usabilidade do sistema de gestão de documentos Version Control, garantindo uma experiência intuitiva e eficiente para os usuários.
+O objetivo deste plano de testes é avaliar a usabilidade do sistema de gestão de documentos Control Version, garantindo uma experiência intuitiva e eficiente para os usuários.
 
 ## Escopo
 Os testes serão realizados na interface do usuário do Version Control, incluindo funcionalidades de upload, revisão, controle de acesso e organização de documentos em pastas ou categorias.
@@ -10,7 +10,7 @@ Os testes serão realizados na interface do usuário do Version Control, incluin
 Os testes serão conduzidos por uma equipe de usuários representativos, incluindo membros da equipe de desenvolvimento, gerentes de projeto e usuários finais. Os testes serão realizados em um ambiente de teste simulando cenários de uso real do sistema.
 
 ## Critérios de Aceitação
-Os critérios de aceitação serão baseados na facilidade de uso, eficiência na execução de tarefas e satisfação do usuário. Os resultados dos testes serão comparados com os requisitos de usabilidade especificados para o Version Control.
+Os critérios de aceitação serão baseados na facilidade de uso, eficiência na execução de tarefas e satisfação do usuário. Os resultados dos testes serão comparados com os requisitos de usabilidade especificados para o Control Version.
 
 ## Cronograma
 Os testes serão realizados ao longo de duas semanas, conforme o seguinte cronograma:
@@ -34,7 +34,7 @@ Os testes serão realizados ao longo de duas semanas, conforme o seguinte cronog
 - Os usuários finais serão responsáveis por realizar as atividades de teste de acordo com as instruções fornecidas.
 
 ## Resultados Esperados
-Espera-se que os testes identifiquem áreas de melhoria na usabilidade do sistema Version Control, possibilitando ajustes e refinamentos antes do lançamento final.
+Espera-se que os testes identifiquem áreas de melhoria na usabilidade do sistema Control Version, possibilitando ajustes e refinamentos antes do lançamento final.
 
 
 ## Aprovação
@@ -46,7 +46,7 @@ Este Plano de Testes de Usabilidade foi revisado e aprovado por:
 
 Olá!
 
-Agradecemos por participar dos testes de usabilidade do sistema Version Control. Sua opinião é extremamente valiosa para nós. Por favor, preencha este formulário fornecendo seu feedback sobre a experiência de uso do sistema.
+Agradecemos por participar dos testes de usabilidade do sistema Control Version. Sua opinião é extremamente valiosa para nós. Por favor, preencha este formulário fornecendo seu feedback sobre a experiência de uso do sistema.
 
 ## Informações do Participante
 - Nome:
@@ -100,7 +100,7 @@ As funcionalidades do sistema atenderam às suas expectativas? Houve algo que vo
 [Inserir resposta aqui]
 
 ## Melhorias Sugeridas
-Você tem sugestões para melhorias no sistema Version Control com base na sua experiência de uso?
+Você tem sugestões para melhorias no sistema Control Version com base na sua experiência de uso?
 
 [Inserir sugestões aqui]
 
@@ -115,8 +115,4 @@ Obrigado por dedicar seu tempo para fornecer feedback sobre o sistema Version Co
 
 Data: 
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+
