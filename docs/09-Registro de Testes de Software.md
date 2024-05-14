@@ -14,7 +14,7 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Tela - Cadastro
 
-![Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/36486198/f9d29828-2852-4d23-b0d4-ca09d98d1132)
+![Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t6-pmv-ads-2024-1-e3-proj-versioncontrol/assets/121464977/23414bb9-8a06-44e1-8ad1-e38fa37b1e40)
 
 ## Tela Home - Navegação
 
