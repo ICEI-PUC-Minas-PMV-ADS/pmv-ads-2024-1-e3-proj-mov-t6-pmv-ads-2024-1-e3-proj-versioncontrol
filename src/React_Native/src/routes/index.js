@@ -16,6 +16,7 @@ import ConfigScreen from "../../src/pages/ConfigScreen"
 import FavoritosScreen from "../../src/pages/FavoritosScreen"
 import MenuHome from "../pages/MenuHome/MenuHome"
 import LibraryScreen from "../pages/LibraryScreen/index"
+import LogoutScreen from "../pages/LogoutScreen/LogoutScreen"
 
 const Stack = createNativeStackNavigator();
 
@@ -85,6 +86,12 @@ export default function Routes(){
             <Stack.Screen
               name="MenuHome"
               component={MenuHome}
+              options={{headerShown: false}}
+            />
+
+            <Stack.Screen
+              name="LogoutScreen"
+              component={LogoutScreen}
               options={{headerShown: false}}
             />
            

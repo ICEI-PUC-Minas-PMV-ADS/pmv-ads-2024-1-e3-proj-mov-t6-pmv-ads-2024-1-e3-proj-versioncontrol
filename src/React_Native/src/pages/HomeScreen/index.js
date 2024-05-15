@@ -3,15 +3,16 @@ import { View, Text, TouchableOpacity, Image } from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
 import { AntDesign } from '@expo/vector-icons';
 import MyDrawer from '../../routes/MainMenu';
-import FavoritosScreen from "../FavoritosScreen"
-import LixeiraScreen from "../LixeiraScreen"
+import FavoritosScreen from "../FavoritosScreen";
+import LixeiraScreen from "../LixeiraScreen";
 import DrawerContent from "../DrawerContent"
-import MenuHome from "../MenuHome/MenuHome"
+import MenuHome from "../MenuHome/MenuHome";
 
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import LibraryScreen from '../LibraryScreen';
 import CompartilharScreen from '../CompartilharScreen';
 import ConfigScreen from '../ConfigScreen';
+import LogoutScreen from '../LogoutScreen/LogoutScreen';
 
 
 const Drawer = createDrawerNavigator();
@@ -26,6 +27,7 @@ export default function MyDrawer2() {
       <Drawer.Screen name="CompartilharScreen" component={CompartilharScreen}   />
       <Drawer.Screen name="ConfigScreen" component={ConfigScreen}   />
       <Drawer.Screen name="LixeiraScreen" component={LixeiraScreen} />
+      <Drawer.Screen name="LogoutScreen" component={LogoutScreen} />
       
     </Drawer.Navigator>
   );
