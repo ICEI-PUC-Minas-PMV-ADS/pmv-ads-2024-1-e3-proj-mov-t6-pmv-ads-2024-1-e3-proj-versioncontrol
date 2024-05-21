@@ -1,12 +1,30 @@
 import React from 'react';
-import { View, Text, Image } from 'react-native';
+import { View, Text, Image, Button } from 'react-native';
+import * as DocumentPicker from 'expo-document-picker';
 
 export const MenuHome = () => {
+  const pickSomething = async () => {
+    try {
+      const docRes = await DocumentPicker.getDocumentAsync({
+        type: "*/*",
+        copyToCacheDirectory: true,
+        multiple: true,
+        
+      });
+      
+      console.log(docRes);
+    } catch (error) {
+      console.log("Error while selecting file: ", error);
+    }
+  
+  };
 
   return (
     <View style={{ flex: 1, backgroundColor: 'lightgray', alignItems: 'center', justifyContent: 'center' }}>
       
-            
+      <View >
+      <Button title="Selecione o arquivo" onPress={pickSomething} />
+      </View>
       
       
       
