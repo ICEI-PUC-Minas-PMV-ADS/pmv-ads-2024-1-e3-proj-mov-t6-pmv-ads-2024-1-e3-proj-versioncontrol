@@ -31,6 +31,9 @@
         "projectId": "ecc571da-1d27-4b43-8b21-5c14c4224fcb"
       }
     },
-    "owner": "nathanrz12"
+    "owner": "nathanrz12",
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
