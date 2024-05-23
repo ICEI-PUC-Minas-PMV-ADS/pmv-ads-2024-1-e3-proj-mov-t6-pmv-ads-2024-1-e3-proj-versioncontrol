@@ -21,13 +21,13 @@ const Drawer = createDrawerNavigator();
 export default function MyDrawer2() {
   return (
     <Drawer.Navigator>
-      <Drawer.Screen name="Home" component={MenuHome}/>
-      <Drawer.Screen name="FavoritosScreen" component={FavoritosScreen}   />
-      <Drawer.Screen name="LibraryScreen" component={LibraryScreen}   />
-      <Drawer.Screen name="CompartilharScreen" component={CompartilharScreen}   />
-      <Drawer.Screen name="ConfigScreen" component={ConfigScreen}   />
-      <Drawer.Screen name="LixeiraScreen" component={LixeiraScreen} />
-      <Drawer.Screen name="LogoutScreen" component={LogoutScreen} />
+      <Drawer.Screen name="Inicio" component={MenuHome}/>
+      <Drawer.Screen name="Favoritos" component={FavoritosScreen}   />
+      <Drawer.Screen name="Bibliotecas" component={LibraryScreen}   />
+      <Drawer.Screen name="Compartilhar" component={CompartilharScreen}   />
+      <Drawer.Screen name="Configurações" component={ConfigScreen}   />
+      <Drawer.Screen name="Lixeira" component={LixeiraScreen} />
+      <Drawer.Screen name="Sair" component={LogoutScreen} />
       
     </Drawer.Navigator>
   );
