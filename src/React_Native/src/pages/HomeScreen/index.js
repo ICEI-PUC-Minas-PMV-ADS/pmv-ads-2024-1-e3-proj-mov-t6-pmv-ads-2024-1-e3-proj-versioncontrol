@@ -23,8 +23,6 @@ export default function MyDrawer2() {
     <Drawer.Navigator>
       <Drawer.Screen name="Inicio" component={MenuHome}/>
       <Drawer.Screen name="Favoritos" component={FavoritosScreen}   />
-      <Drawer.Screen name="Bibliotecas" component={LibraryScreen}   />
-      <Drawer.Screen name="Compartilhar" component={CompartilharScreen}   />
       <Drawer.Screen name="Configurações" component={ConfigScreen}   />
       <Drawer.Screen name="Lixeira" component={LixeiraScreen} />
       <Drawer.Screen name="Sair" component={LogoutScreen} />
