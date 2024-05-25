@@ -1,8 +1,24 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Image, StyleSheet} from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
+import { AntDesign } from '@expo/vector-icons';
+import MyDrawer from '../../routes/MainMenu';
+import FavoritosScreen from "../FavoritosScreen";
+import LixeiraScreen from "../LixeiraScreen";
+import DrawerContent from "../DrawerContent"
+import MenuHome from "../MenuHome/MenuHome";
 
- export const HomeScreen = ({ navigation }) => {
+import { createDrawerNavigator } from '@react-navigation/drawer';
+import LibraryScreen from '../LibraryScreen';
+import CompartilharScreen from '../CompartilharScreen';
+import ConfigScreen from '../ConfigScreen';
+import LogoutScreen from '../LogoutScreen/LogoutScreen';
+
+
+const Drawer = createDrawerNavigator();
+
+
+export default function MyDrawer2() {
   return (
     <View style={{ flex: 1,
      backgroundColor: '#ffa500', alignItems: 'center', justifyContent: 'center' }}>
@@ -11,15 +27,19 @@ import { DrawerActions } from '@react-navigation/native';
         style={{ position: 'absolute', top: 20, left: 10 }}
       >
        
-        <Text>☰</Text>
+       <AntDesign name="menu-fold" size={24} color="black" />
       </TouchableOpacity>
 
       <TouchableOpacity
-        onPress={() => navigation.navigate('WelcomeScreen')}
+        onPress={() => navigation.navigate('Welcome')}
         style={{ position: 'absolute', top: 20, right: 10 }}
       >
-        {/* Logo */}
-        <Image source={require('../../assets/logo.png')} style={{ width: 40, height: 40 }} />
+        
+      
+        
+      
+      
+      <Image source={require('../../assets/logo.png')} style={{ width: 40, height: 40 }} />
       </TouchableOpacity>
 
       <Text style={{ fontSize: 24 }}>Documentos Recentes</Text>
@@ -50,4 +70,3 @@ import { DrawerActions } from '@react-navigation/native';
 };
 
 
-export default HomeScreen;
