@@ -32,6 +32,10 @@ export default function SignIn () {
                     <Text style={styles.buttonText}>Acessar</Text>
                 </TouchableOpacity>
 
+                <TouchableOpacity style={styles.buttonVoltar} onPress={() => navigation.navigate('Welcome')}>
+                    <Text style={styles.buttonTextVoltar}>Voltar</Text>
+                </TouchableOpacity>
+
                 <TouchableOpacity style={styles.buttonRegister} onPress={() => navigation.navigate('SignUp')}>
                     <Text style={styles.registerText}>Não possui uma conta? Cadastre-se</Text>
                 </TouchableOpacity>
@@ -87,6 +91,20 @@ const styles = StyleSheet.create({
     },
     buttonText: {
         color: '#fff',
+        fontSize: 18,
+        fontWeight: 'bold'
+    },
+    buttonVoltar: {
+        backgroundColor: '#fff',
+        width: '100%',
+        borderRadius: 4,
+        paddingVertical: 8,
+        martinTop: 15,
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    buttonTextVoltar: {
+        color: '#6E6E6E',
         fontSize: 18,
         fontWeight: 'bold'
     },

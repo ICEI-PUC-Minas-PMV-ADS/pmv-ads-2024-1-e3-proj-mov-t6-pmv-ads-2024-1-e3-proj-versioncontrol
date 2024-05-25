@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, Image } from 'react-native';
+import { View, Text, TouchableOpacity, Image, StyleSheet} from 'react-native';
 import { DrawerActions } from '@react-navigation/native';
 import { AntDesign } from '@expo/vector-icons';
 import MyDrawer from '../../routes/MainMenu';
@@ -20,52 +20,10 @@ const Drawer = createDrawerNavigator();
 
 export default function MyDrawer2() {
   return (
-    <Drawer.Navigator>
-      <Drawer.Screen name="Inicio" component={MenuHome}/>
-      <Drawer.Screen name="Favoritos" component={FavoritosScreen}   />
-      <Drawer.Screen name="Configurações" component={ConfigScreen}   />
-      <Drawer.Screen name="Lixeira" component={LixeiraScreen} />
-      <Drawer.Screen name="Sair" component={LogoutScreen} />
-      
-    </Drawer.Navigator>
-  );
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- /*export const HomeScreen = ({ navigation }) => {
-
-  return (
-    <View style={{ flex: 1, backgroundColor: 'lightgray', alignItems: 'center', justifyContent: 'center' }}>
-      
-       <TouchableOpacity
-       // onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
-        onPress={() =>navigation.navigate ('DrawerContent')} //DrawerContent
+    <View style={{ flex: 1,
+     backgroundColor: '#ffa500', alignItems: 'center', justifyContent: 'center' }}>
+      <TouchableOpacity
+        onPress={() => navigation.dispatch(DrawerActions.openDrawer())}
         style={{ position: 'absolute', top: 20, left: 10 }}
       >
        
@@ -76,9 +34,9 @@ export default function MyDrawer2() {
         onPress={() => navigation.navigate('Welcome')}
         style={{ position: 'absolute', top: 20, right: 10 }}
       >
-        {/* Logo */ //}
+        
       
-      /*  
+        
       
       
       <Image source={require('../../assets/logo.png')} style={{ width: 40, height: 40 }} />
@@ -111,4 +69,4 @@ export default function MyDrawer2() {
   );
 };
 
-export default HomeScreen; */
+

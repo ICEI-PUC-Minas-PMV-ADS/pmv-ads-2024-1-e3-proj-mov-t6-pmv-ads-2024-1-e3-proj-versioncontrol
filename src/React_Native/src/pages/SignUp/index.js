@@ -34,7 +34,12 @@ export default function SignUp () {
                 <TouchableOpacity style={styles.button}>
                     <Text style={styles.buttonText}>Criar conta</Text>
                 </TouchableOpacity>
+
+                <TouchableOpacity style={styles.buttonVoltar} onPress={() => navigation.navigate('SignIn')}>
+                    <Text style={styles.buttonTextVoltar}>Voltar</Text>
+                </TouchableOpacity>
             </Animatable.View>
+            
 
             
         </View>
@@ -85,6 +90,20 @@ const styles = StyleSheet.create({
     },
     buttonText: {
         color: '#fff',
+        fontSize: 18,
+        fontWeight: 'bold'
+    },
+    buttonVoltar: {
+        backgroundColor: '#fff',
+        width: '100%',
+        borderRadius: 4,
+        paddingVertical: 8,
+        martinTop: 15,
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    buttonTextVoltar: {
+        color: '#6E6E6E',
         fontSize: 18,
         fontWeight: 'bold'
     },
