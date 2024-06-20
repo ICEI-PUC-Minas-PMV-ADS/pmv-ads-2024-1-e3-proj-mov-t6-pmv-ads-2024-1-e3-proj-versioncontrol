@@ -1,13 +1,9 @@
 import React from "react";
 import {View, Text, StyleSheet, TextInput, TouchableOpacity} from "react-native";
 
-import {useNavigation } from '@react-navigation/native'
-
 import * as Animatable from 'react-native-animatable'
 
-
 export default function SignUp () {
-    const navigation = useNavigation();
     return (
         <View style={styles.container}>
             <Animatable.View animation="fadeInLeft" delay={500} style={styles.containerHeader}>
@@ -39,11 +35,11 @@ export default function SignUp () {
                     <Text style={styles.buttonText}>Criar conta</Text>
                 </TouchableOpacity>
 
-                <TouchableOpacity style={styles.buttonback} onPress={() => navigation.navigate('SignIn')}>
-                <Text style={styles.buttonTextVoltar}>Voltar</Text>
+                <TouchableOpacity style={styles.buttonVoltar} onPress={() => navigation.navigate('SignIn')}>
+                    <Text style={styles.buttonTextVoltar}>Voltar</Text>
                 </TouchableOpacity>
-                
             </Animatable.View>
+            
 
             
         </View>
@@ -97,18 +93,17 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: 'bold'
     },
-    buttonback: {
-        backgroundColor: 'white',
-        width: '35%',
-        borderRadius: 20,
+    buttonVoltar: {
+        backgroundColor: '#fff',
+        width: '100%',
+        borderRadius: 4,
         paddingVertical: 8,
-        martinTop: 14,
+        martinTop: 15,
         justifyContent: 'center',
-        alignItems: 'center',
-        alignSelf: 'center',
+        alignItems: 'center'
     },
     buttonTextVoltar: {
-        color: '#6e6e6e',
+        color: '#6E6E6E',
         fontSize: 18,
         fontWeight: 'bold'
     },

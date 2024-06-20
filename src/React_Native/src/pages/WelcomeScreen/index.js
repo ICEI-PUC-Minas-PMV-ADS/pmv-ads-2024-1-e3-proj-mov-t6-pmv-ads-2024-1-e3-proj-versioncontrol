@@ -5,7 +5,7 @@ import * as Animatable from 'react-native-animatable'
 
 import {useNavigation } from '@react-navigation/native'
 
-export default function Welcome() {
+export default function WelcomeScreen() {
     const navigation = useNavigation();
 
     return (
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         marginBottom: 12,
     },
     text: {
-        color: '#6E6E6E'
+        color: '#a1a1a1'
     },
     button: {
         position: 'absolute',

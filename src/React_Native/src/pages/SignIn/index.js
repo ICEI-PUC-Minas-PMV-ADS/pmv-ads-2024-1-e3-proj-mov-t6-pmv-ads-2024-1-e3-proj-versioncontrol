@@ -1,12 +1,15 @@
 import React from "react";
 import {View, Text, StyleSheet, TextInput, TouchableOpacity} from "react-native";
 
+
 import * as Animatable from 'react-native-animatable'
 
 import {useNavigation } from '@react-navigation/native'
 
 export default function SignIn () {
+
     const navigation = useNavigation();
+
     return (
         <View style={styles.container}>
             <Animatable.View animation="fadeInLeft" delay={500} style={styles.containerHeader}>
@@ -27,14 +30,12 @@ export default function SignIn () {
                 style={styles.input}
                 />
 
-               
-
-                <TouchableOpacity style={styles.button}>
+                <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('HomeScreen')}>
                     <Text style={styles.buttonText}>Acessar</Text>
                 </TouchableOpacity>
 
-                <TouchableOpacity style={styles.buttonback} onPress={() => navigation.navigate('Welcome')}>
-                <Text style={styles.buttonTextVoltar}>Voltar</Text>
+                <TouchableOpacity style={styles.buttonVoltar} onPress={() => navigation.navigate('Welcome')}>
+                    <Text style={styles.buttonTextVoltar}>Voltar</Text>
                 </TouchableOpacity>
 
                 <TouchableOpacity style={styles.buttonRegister} onPress={() => navigation.navigate('SignUp')}>
@@ -90,24 +91,22 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center'
     },
-    buttonback: {
-        backgroundColor: 'white',
-        width: '35%',
-        borderRadius: 20,
-        paddingVertical: 8,
-        martinTop: 14,
-        justifyContent: 'center',
-        alignItems: 'center',
-        alignSelf: 'center',
-    },
-    buttonTextVoltar: {
-        color: '#6e6e6e',
+    buttonText: {
+        color: '#fff',
         fontSize: 18,
         fontWeight: 'bold'
     },
-    
-    buttonText: {
-        color: '#fff',
+    buttonVoltar: {
+        backgroundColor: '#fff',
+        width: '100%',
+        borderRadius: 4,
+        paddingVertical: 8,
+        martinTop: 15,
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    buttonTextVoltar: {
+        color: '#6E6E6E',
         fontSize: 18,
         fontWeight: 'bold'
     },
@@ -116,7 +115,6 @@ const styles = StyleSheet.create({
         alignSelf: 'center'
     },
     registerText: {
-        color: '#ffa500',
-        fontSize: 16,
+        color: '#a1a1a1'
     }
 })
