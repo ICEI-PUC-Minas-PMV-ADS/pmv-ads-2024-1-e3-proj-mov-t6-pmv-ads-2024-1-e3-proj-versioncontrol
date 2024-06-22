@@ -3,7 +3,7 @@ import { View, Text, Button, StyleSheet } from 'react-native';
 
 function LogoutScreen({ navigation }) {
   const handleLogout = () => {
-   navigation.navigate('MenuHome');
+   navigation.navigate('Welcome');
   };
 
   return (

@@ -65,7 +65,7 @@ export const DrawerContent = ({ navigation }) => {
       onPress={() => navigateToScreen('LogoutScreen')}
     >
       <AntDesign name="back" size={24} color="black" />
-      <Text style={styles.drawerItemText}>Voltar </Text>
+      <Text style={styles.drawerItemText}>Sair </Text>
     </TouchableOpacity>
 
    
