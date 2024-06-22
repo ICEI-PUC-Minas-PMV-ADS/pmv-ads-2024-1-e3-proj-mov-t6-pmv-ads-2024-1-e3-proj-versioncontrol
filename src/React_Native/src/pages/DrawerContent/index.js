@@ -29,7 +29,7 @@ export const DrawerContent = ({ navigation }) => {
     </TouchableOpacity>
     <TouchableOpacity
       style={styles.drawerItem}
-      onPress={() => navigateToScreen('CadernosScreen')}
+      onPress={() => navigateToScreen('LibraryScreen')}
     >
       <MaterialIcons name="book" size={24} color="black" />
       <Text style={styles.drawerItemText}>Cadernos</Text>
@@ -62,7 +62,7 @@ export const DrawerContent = ({ navigation }) => {
 
     <TouchableOpacity
       style={styles.drawerItem}
-      onPress={() => navigateToScreen('HomeScreen')}
+      onPress={() => navigateToScreen('LogoutScreen')}
     >
       <AntDesign name="back" size={24} color="black" />
       <Text style={styles.drawerItemText}>Voltar </Text>

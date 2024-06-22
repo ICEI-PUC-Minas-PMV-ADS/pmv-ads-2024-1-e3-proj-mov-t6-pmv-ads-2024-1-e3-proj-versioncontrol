@@ -1,8 +1,13 @@
 import React from 'react';
-import { View, Text, Image, Button } from 'react-native';
+import { View, Text, Image, Button, TouchableOpacity } from 'react-native';
 import * as DocumentPicker from 'expo-document-picker';
+import { AntDesign } from '@expo/vector-icons';
+import {useNavigation } from '@react-navigation/native'
 
 export const MenuHome = () => {
+
+  const navigation = useNavigation();
+
   const pickSomething = async () => {
     try {
       const docRes = await DocumentPicker.getDocumentAsync({
@@ -20,7 +25,20 @@ export const MenuHome = () => {
   };
 
   return (
-    <View style={{ flex: 1, backgroundColor: 'lightgray', alignItems: 'center', justifyContent: 'center' }}>
+
+    
+    <View style={{ flex: 1,
+      backgroundColor: '#ffa500', alignItems: 'center', justifyContent: 'center' }}>
+       <TouchableOpacity
+         //onPress={() => navigation.dispatch(DrawerActions.openDrawer('DrawerContent'))}
+         onPress={() => navigation.navigate('DrawerContent')}
+         style={{ position: 'absolute', top: 20, left: 10 }}
+       >
+        
+        <AntDesign name="menu-fold" size={24} color="black" />
+       </TouchableOpacity>
+ 
+       
       
       <View >
       <Button title="Selecione o arquivo" onPress={pickSomething} />
