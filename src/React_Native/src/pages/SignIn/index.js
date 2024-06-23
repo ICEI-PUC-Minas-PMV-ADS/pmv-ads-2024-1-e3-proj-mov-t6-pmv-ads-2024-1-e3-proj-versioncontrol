@@ -28,7 +28,7 @@ export default function SignIn () {
                 style={styles.input}
                 />
 
-                <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('HomeScreen')}>
+                <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('MenuHome')}>
                     <Text style={styles.buttonText}>Acessar</Text>
                 </TouchableOpacity>
 
